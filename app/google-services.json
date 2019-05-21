@@ -1,0 +1,60 @@
+{
+  "project_info": {
+    "project_number": "1059685719133",
+    "firebase_url": "https://hotels-f51aa.firebaseio.com",
+    "project_id": "hotels-f51aa",
+    "storage_bucket": "hotels-f51aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059685719133:android:d34d9a885b3b55bd",
+        "android_client_info": {
+          "package_name": "ify.com.hotelsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059685719133-79903iemk8seldobabloj4vh7k7krivh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ify.com.hotelsapp",
+            "certificate_hash": "c0c19d3ea6d71ab77b7308246564ece1e10418ce"
+          }
+        },
+        {
+          "client_id": "1059685719133-aotc34b3211penigng4t8ag2b83tfs7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ify.com.hotelsapp",
+            "certificate_hash": "4074b58f7aa480f61da8bd6069b04874e2615df7"
+          }
+        },
+        {
+          "client_id": "1059685719133-unq5etbm9qdh1bvac2hrqh7qs9lp4g2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ify.com.hotelsapp",
+            "certificate_hash": "471c703d560cc1041bd0c8ea840d67725265794a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7vkiKHZLReWB9ifwmrKFaNyf-eLbZgzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059685719133-pjqhs6dutpmdfa4lfqp1gf28j6lj1rcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

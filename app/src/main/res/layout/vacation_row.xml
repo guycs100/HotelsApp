@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="500dp"
+    android:layout_height="250dp"
+    android:background="@drawable/backgroudlist"
+    android:orientation="horizontal"
+    android:paddingTop="10dp"
+
+
+    android:paddingBottom="20dp">
+
+    <TextView
+        android:id="@+id/countryXml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="80"
+
+        android:textSize="30dp">
+
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/checkInXml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/countryXml"
+        android:layout_weight="80"
+        android:textSize="30dp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/checkOutXml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/checkInXml"
+        android:layout_weight="80"
+        android:textSize="30dp">
+
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/priceXml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/checkOutXml"
+        android:layout_weight="80"
+        android:textSize="30dp">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/hotelNameXml"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/priceXml"
+        android:layout_weight="80"
+        android:textSize="30dp">
+
+    </TextView>
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="120dp"
+        android:layout_alignTop="@+id/countryXml"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="251dp"
+        android:layout_marginTop="51dp"
+        android:src="@drawable/managers_photo" />
+
+
+</RelativeLayout>
+
